@@ -1,0 +1,23 @@
+{
+  "name": "first-pi-test",
+  "version": "1.0.0",
+  "description": "Simple playground with Raspberry Pi 4B",
+  "main": "main.js",
+  "dependencies": {
+    "onoff": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YvesDesjardins/first-pi-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YvesDesjardins/first-pi-test/issues"
+  },
+  "homepage": "https://github.com/YvesDesjardins/first-pi-test#readme"
+}
